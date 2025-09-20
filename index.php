@@ -408,7 +408,8 @@ if ($isSubmitted) {
   </main>
 
   <footer>
-    Built with ❤️ in one PHP file. Inspired by Google Forms styling. No data stored server-side.
+    Built with PHP file. Inspired by Google Forms styling. No data stored server-side.
   </footer>
 </body>
 </html>
+
